@@ -1,5 +1,5 @@
 import photo from "./images/angma.jpg";
-import styles from "./User.css";
+import "./User.css";
 
 export default function User({ name }) {
   const li = document.createElement("li");
